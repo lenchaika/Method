@@ -50,5 +50,7 @@
 
   *__Scrum-доска__*
 
+  !["Scrum-доска"](scrum_doska.png)
+
   
 
