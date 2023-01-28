@@ -31,3 +31,4 @@
 
    VSM-картa #1
    !["VSM-картa1"]( VSM-%D0%BA%D0%B0%D1%80%D1%82a1.png)
+   !["VSM-картa2"](VSM-%D0%BA%D0%B0%D1%80%D1%82a2.png)
