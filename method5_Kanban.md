@@ -7,6 +7,7 @@
 
   *Решение*
 
-    !["Kanban-доска"](Kanban-доска.png)
+
+!["Kanban-доска"](kanban_doska.png)
 
   
